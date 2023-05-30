@@ -37,11 +37,11 @@ main {
 }
 
 h2 {
-    padding: 20px;
+    padding: 25px;
 }
 
 section:nth-child(even) {
-    background-color: rgb(241, 241, 241);
+    background-color: rgb(240, 240, 240);
 }
 
 section {
@@ -61,7 +61,7 @@ img {
 }
 
 section h5 {
-    margin: 40px;
+    margin: 42px;
 }
 
 footer {
@@ -71,7 +71,7 @@ footer {
 
 footer a {
     text-decoration: none;
-    padding: 20px;
+    padding: 25px;
     text-align: center;
     float: left;
     color: white;
